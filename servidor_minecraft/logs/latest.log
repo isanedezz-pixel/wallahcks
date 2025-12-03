@@ -1,0 +1,67 @@
+[00:35:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:35:28] [ServerMain/INFO]: Loaded 1461 recipes
+[00:35:28] [ServerMain/INFO]: Loaded 1574 advancements
+[00:35:28] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[00:35:28] [Server thread/INFO]: Loading properties
+[00:35:28] [Server thread/INFO]: Default game type: SURVIVAL
+[00:35:28] [Server thread/INFO]: Generating keypair
+[00:35:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:35:28] [Server thread/INFO]: Using epoll channel type
+[00:35:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:35:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:35:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:35:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:35:28] [Server thread/INFO]: Preparing level "world"
+[00:35:29] [Server thread/INFO]: Loading 0 persistent chunks...
+[00:35:29] [Server thread/INFO]: Preparing spawn area: 100%
+[00:35:29] [Server thread/INFO]: Time elapsed: 14 ms
+[00:35:29] [Server thread/INFO]: Done (0.330s)! For help, type "help"
+[00:35:52] [Server thread/INFO]: Karol_sofi3[/127.146.46.238:56737] logged in with entity id 80 at (-685.1306800833992, 69.0, -395.5569969110075)
+[00:35:52] [Server thread/INFO]: Karol_sofi3 joined the game
+[00:36:03] [Server thread/INFO]: Devzko[/127.146.46.238:47477] logged in with entity id 263 at (-706.1243247641395, 67.0, -393.33305642428394)
+[00:36:03] [Server thread/INFO]: Devzko joined the game
+[00:38:07] [Server thread/INFO]: Devzko has made the advancement [Voluntary Exile]
+[00:39:08] [Server thread/INFO]: Jose_Dev[/127.146.46.238:47493] logged in with entity id 925 at (-767.6772786744393, 63.0, -383.02269827274125)
+[00:39:08] [Server thread/INFO]: Jose_Dev joined the game
+[00:41:21] [Server thread/INFO]: Devzko has made the advancement [Ol' Betsy]
+[00:41:26] [Server thread/INFO]: Devzko has made the advancement [Take Aim]
+[00:43:47] [Server thread/INFO]: Jose_Dev has made the advancement [Not Today, Thank You]
+[00:46:06] [Server thread/INFO]: Devzko has made the advancement [Not Today, Thank You]
+[00:49:07] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-727, y=61, z=-406} ja{x=-727, y=62, z=-406}
+[00:49:08] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-728, y=61, z=-407} ja{x=-728, y=62, z=-407}
+[00:49:42] [Server thread/INFO]: Teleported Devzko to Karol_sofi3
+[00:56:37] [Server thread/INFO]: Jose_Dev has made the advancement [Voluntary Exile]
+[01:02:12] [Server thread/INFO]: Villager cyx['Villager'/47, l='ServerLevel[Mundo]', x=-717.53, y=62.71, z=-376.13] died, message: 'Villager was slain by Drowned'
+[01:05:17] [Server thread/INFO]: Teleported Devzko to Karol_sofi3
+[01:08:50] [Server thread/INFO]: Karol_sofi3 has made the advancement [Best Friends Forever]
+[01:09:38] [Server thread/INFO]: Jose_Dev lost connection: Disconnected
+[01:09:38] [Server thread/INFO]: Jose_Dev left the game
+[01:11:33] [Server thread/INFO]: Jose_Dev[/127.146.46.238:53859] logged in with entity id 11714 at (-712.6855146201596, 67.0, -385.21977443488976)
+[01:11:33] [Server thread/INFO]: Jose_Dev joined the game
+[01:25:15] [Server thread/INFO]: Teleported Devzko to Karol_sofi3
+[01:33:42] [Server thread/INFO]: Karol_sofi3 lost connection: Timed out
+[01:33:42] [Server thread/INFO]: Karol_sofi3 left the game
+[01:33:42] [Server thread/WARN]: handleDisconnection() called twice
+[01:33:50] [Server thread/INFO]: Jose_Dev lost connection: Timed out
+[01:33:50] [Server thread/INFO]: Jose_Dev left the game
+[01:33:53] [Server thread/INFO]: Devzko lost connection: Timed out
+[01:33:53] [Server thread/INFO]: Devzko left the game
+[01:33:59] [Server thread/INFO]: Karol_sofi3[/127.146.46.238:50931] logged in with entity id 25050 at (77.47715759865639, 62.11076431312786, -186.32791984981316)
+[01:33:59] [Server thread/INFO]: Karol_sofi3 joined the game
+[01:34:03] [Server thread/INFO]: Jose_Dev[/127.146.46.238:49819] logged in with entity id 25325 at (-704.3698633123562, 64.0, -436.6809581184662)
+[01:34:03] [Server thread/INFO]: Jose_Dev joined the game
+[01:34:30] [Server thread/INFO]: Karol_sofi3 lost connection: Timed out
+[01:34:30] [Server thread/INFO]: Karol_sofi3 left the game
+[01:34:34] [Server thread/INFO]: Jose_Dev lost connection: Timed out
+[01:34:34] [Server thread/INFO]: Jose_Dev left the game
+[01:34:46] [Server thread/INFO]: Stopping the server
+[01:34:46] [Server thread/INFO]: Stopping server
+[01:34:46] [Server thread/INFO]: Saving players
+[01:34:46] [Server thread/INFO]: Saving worlds
+[01:34:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo]'/minecraft:overworld
+[01:34:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo]'/minecraft:the_end
+[01:34:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo]'/minecraft:the_nether
+[01:34:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:34:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:34:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:34:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
