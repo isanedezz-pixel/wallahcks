@@ -1,0 +1,85 @@
+[02:13:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:13:07] [ServerMain/INFO]: Loaded 1470 recipes
+[02:13:07] [ServerMain/INFO]: Loaded 1584 advancements
+[02:13:07] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[02:13:07] [Server thread/INFO]: Loading properties
+[02:13:07] [Server thread/INFO]: Default game type: SURVIVAL
+[02:13:07] [Server thread/INFO]: Generating keypair
+[02:13:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:13:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:13:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:13:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:13:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:13:08] [Server thread/INFO]: Preparing level "world"
+[02:13:09] [Server thread/INFO]: Loading 0 persistent chunks...
+[02:13:09] [Server thread/INFO]: Preparing spawn area: 100%
+[02:13:09] [Server thread/INFO]: Time elapsed: 14 ms
+[02:13:09] [Server thread/INFO]: Done (1.076s)! For help, type "help"
+[02:13:31] [Server thread/INFO]: Devzko[/127.123.118.37:52775] logged in with entity id 149 at (-722.41700170101, 63.875, -416.000991322895)
+[02:13:31] [Server thread/INFO]: Devzko joined the game
+[02:13:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:16:35] [Server thread/INFO]: Karol_sofi3[/127.254.42.249:36657] logged in with entity id 1162 at (-802.2972946260502, 106.0, -399.31710924351677)
+[02:16:35] [Server thread/INFO]: Karol_sofi3 joined the game
+[02:38:22] [Server thread/INFO]: Teleported Karol_sofi3 to Devzko
+[02:43:03] [Server thread/WARN]: Mismatch in destroy block pos: is{x=59, y=57, z=-98} is{x=59, y=57, z=-97}
+[02:43:11] [Server thread/WARN]: Mismatch in destroy block pos: is{x=62, y=59, z=-107} is{x=63, y=59, z=-106}
+[02:46:24] [Server thread/INFO]: Teleported Karol_sofi3 to -679.500000, 80.000000, -379.500000
+[02:49:56] [Server thread/INFO]: Teleported Karol_sofi3 to Devzko
+[02:50:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=239, y=34, z=-47} is{x=239, y=34, z=-46}
+[02:59:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=240, y=29, z=-103} is{x=241, y=30, z=-104}
+[02:59:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=240, y=29, z=-103} is{x=241, y=30, z=-104}
+[03:11:06] [Server thread/WARN]: Mismatch in destroy block pos: is{x=219, y=75, z=58} is{x=216, y=78, z=59}
+[03:11:10] [Server thread/WARN]: Mismatch in destroy block pos: is{x=210, y=81, z=61} is{x=210, y=82, z=61}
+[03:11:21] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=91, z=51} is{x=209, y=91, z=50}
+[03:11:27] [Server thread/INFO]: Karol_sofi3 tried to swim in lava
+[03:11:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=92, z=49} is{x=209, y=89, z=51}
+[03:11:48] [Server thread/INFO]: Teleported Karol_sofi3 to Devzko
+[03:12:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=90, z=58} is{x=209, y=89, z=57}
+[03:12:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=95, z=63} is{x=209, y=95, z=62}
+[03:12:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=95, z=63} is{x=209, y=95, z=62}
+[03:12:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=103, z=71} is{x=209, y=104, z=72}
+[03:12:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=103, z=71} is{x=209, y=104, z=72}
+[03:12:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=103, z=71} is{x=209, y=104, z=72}
+[03:12:59] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=109, z=78} is{x=209, y=109, z=79}
+[03:13:02] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=109, z=78} is{x=209, y=112, z=81}
+[03:13:10] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=116, z=84} is{x=209, y=118, z=86}
+[03:13:10] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=116, z=84} is{x=209, y=118, z=86}
+[03:13:11] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=116, z=84} is{x=209, y=118, z=86}
+[03:13:11] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=117, z=85} is{x=209, y=119, z=87}
+[03:13:11] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=117, z=85} is{x=209, y=119, z=87}
+[03:13:11] [Server thread/WARN]: Mismatch in destroy block pos: is{x=209, y=117, z=85} is{x=209, y=119, z=87}
+[03:17:46] [Server thread/INFO]: Teleported Karol_sofi3 to Devzko
+[03:21:16] [Server thread/INFO]: Teleported Karol_sofi3 to -679.500000, 70.000000, -379.500000
+[03:24:11] [Server thread/INFO]: Villager dcx['Villager'/17091, l='ServerLevel[Mundo]', x=-707.75, y=63.00, z=-421.47] died, message: 'Villager was slain by Zombie'
+[03:25:05] [Server thread/INFO]: Karol_sofi3 was blown up by Creeper
+[03:25:12] [Server thread/INFO]: Villager dcx['Toolsmith'/18846, l='ServerLevel[Mundo]', x=-721.69, y=63.00, z=-442.69] died, message: 'Toolsmith was slain by Zombie'
+[03:25:45] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[03:25:45] [Server thread/INFO]: ...ive Devzko<--[HERE]
+[03:27:11] [Server thread/INFO]: Villager dcx['Librarian'/18833, l='ServerLevel[Mundo]', x=-747.30, y=63.00, z=-442.70] died, message: 'Librarian was slain by Zombie'
+[03:27:16] [Server thread/INFO]: Villager dcx['Librarian'/18834, l='ServerLevel[Mundo]', x=-749.70, y=63.00, z=-442.70] died, message: 'Librarian was slain by Zombie'
+[03:27:41] [Server thread/INFO]: Unknown game mode: Creative
+[03:27:41] [Server thread/INFO]: ...e Creative Devzko<--[HERE]
+[03:27:55] [Server thread/INFO]: Set Devzko's game mode to Creative Mode
+[03:29:06] [Server thread/INFO]: Set Devzko's game mode to Survival Mode
+[03:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18326ms or 366 ticks behind
+[03:30:51] [Server thread/INFO]: Teleported Devzko to -679.500000, 70.000000, -379.500000
+[03:31:56] [Server thread/INFO]: Teleported Karol_sofi3 to Devzko
+[03:34:00] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-696, y=69, z=-440} is{x=-696, y=68, z=-440}
+[03:51:30] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-1264, y=82, z=-1249} is{x=-1263, y=82, z=-1249}
+[03:54:51] [Server thread/INFO]: Karol_sofi3 fell from a high place
+[03:55:04] [Server thread/INFO]: Teleported Karol_sofi3 to Devzko
+[03:56:42] [Server thread/INFO]: Karol_sofi3 was blown up by Creeper
+[03:56:53] [Server thread/INFO]: Teleported Karol_sofi3 to Devzko
+[04:02:27] [Server thread/INFO]: Devzko fell from a high place
+[04:02:35] [Server thread/INFO]: Teleported Devzko to Karol_sofi3
+[04:02:38] [Server thread/INFO]: Devzko fell from a high place
+[04:02:51] [Server thread/INFO]: Teleported Karol_sofi3 to Devzko
+[04:05:05] [Server thread/INFO]: An entity is required to run this command here
+[04:05:29] [Server thread/INFO]: Teleported Devzko to -1252.500000, 70.000000, -2182.500000
+[04:05:55] [Server thread/INFO]: Devzko lost connection: Disconnected
+[04:05:55] [Server thread/INFO]: Devzko left the game
+[04:06:02] [Server thread/INFO]: Devzko[/127.123.118.37:49521] logged in with entity id 33604 at (-1223.078871122229, 58.864059705556386, -2162.1714701870906)
+[04:06:02] [Server thread/INFO]: Devzko joined the game
+[04:06:11] [Server thread/INFO]: Teleported Devzko to Karol_sofi3
+[04:06:56] [Server thread/INFO]: Devzko tried to swim in lava
+[04:07:14] [Server thread/INFO]: Devzko tried to swim in lava
